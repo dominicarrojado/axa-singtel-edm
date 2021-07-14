@@ -1,0 +1,770 @@
+<mjml>
+  <mj-head>
+    <mj-title> AXA in partnership with Singtel - Dominic Arrojado </mj-title>
+
+    <!-- START of Global Attributes -->
+    <mj-breakpoint width="800px" />
+    <mj-attributes>
+      <mj-all padding="0" font-family="Arial" line-height="1.4" />
+    </mj-attributes>
+    <!-- END of Global Attributes -->
+
+    <!-- START of Inline Style Overrides -->
+    <!-- prettier-ignore -->
+    <mj-style inline="inline">
+      .inline-img {
+        display: inline;
+        outline: none;
+        border: 0;
+        font-size: 13px;
+        text-decoration: none;
+      }
+
+      .td-axa,
+      .td-partner,
+      .td-singtel {
+        vertical-align: bottom;
+      }
+
+      .td-partner {
+        text-align: right;
+        padding: 0 10px 20px;
+      }
+
+      .td-axa a,
+      .td-singtel a {
+        display: block;
+      }
+
+      .td-axa,
+      .axa-img {
+        width: 71px;
+      }
+
+      .td-singtel,
+      .singtel-img {
+        width: 110px;
+      }
+
+      .axa-img,
+      .singtel-img {
+        display: block;
+        height: auto;
+      }
+
+      .td-num,
+      .td-desc {
+        vertical-align: top;
+      }
+
+      .td-num {
+        width: 15px;
+      }
+
+      .btn-text,
+      .btn-text-underline {
+        display: inline-block;
+        margin: 0;
+        background: transparent;
+        font-family: Arial;
+        font-size: 11px;
+        line-height: 1.4;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .btn-text {
+        color: #ffffff;
+        text-decoration: none;
+      }
+
+      .btn-text-underline {
+        color: #777777;
+        text-decoration: underline;
+      }
+
+      .social-facebook-img {
+        width: 72px;
+        height: auto;
+      }
+
+      .social-youtube-img,
+      .social-linkedin-img {
+        width: 31px;
+        height: auto;
+      }
+    </mj-style>
+    <!-- END of Inline Style Overrides -->
+
+    <!-- START of Internal/Mobile Styles -->
+    <!-- prettier-ignore -->
+    <mj-style>
+      .btn-text-hover a:hover,
+      a.btn-text-hover:hover {
+        cursor: pointer !important;
+        text-decoration: underline !important;
+      }
+
+      .btn-hover-white a:hover {
+        background-color: #ffffff !important;
+        color: #133483 !important;
+      }
+
+      .btn-hover-blue a:hover {
+        background-color: #133483 !important;
+        color: #ffffff !important;
+      }
+
+      @media only screen and (max-width: 799px) {
+        .wrapper > table > tbody > tr > td {
+          padding-top: 0 !important;
+          padding-bottom: 0 !important;
+        }
+
+        .td-partner {
+          font-size: 14px !important;
+        }
+
+        .col-right-text {
+          padding-right: 0 !important;
+          padding-left: 0 !important;
+        }
+
+        .col-right-text,
+        .col-right-text > div {
+          text-align: center !important;
+        }
+
+        .col-right-text > table {
+          margin: 0 auto !important;
+        }
+      }
+    </mj-style>
+    <!-- END of Internal/Mobile Styles -->
+
+    <mj-raw>
+      <!-- START of Google Tag Manager -->
+      <script>
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
+      </script>
+      <!-- END of Google Tag Manager -->
+
+      <link rel="icon" href="https://dominicarrojado.com/favicon.ico" />
+      <meta name="theme-color" content="#d7e1e9" />
+      <meta
+        name="description"
+        content="Email template for AXA in partnership with Singtel"
+      />
+      <link
+        rel="canonical"
+        href="https://dominicarrojado.com/axa-singtel-edm/"
+      />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:title"
+        content="AXA in partnership with Singtel - Dominic Arrojado"
+      />
+      <meta
+        property="og:description"
+        content="Email template for AXA in partnership with Singtel"
+      />
+      <meta
+        property="og:url"
+        content="https://dominicarrojado.com/axa-singtel-edm/"
+      />
+      <meta
+        property="og:site_name"
+        content="AXA in partnership with Singtel - Dominic Arrojado"
+      />
+      <meta
+        property="og:image"
+        content="https://dominicarrojado.com/axa-singtel-edm/images/axa-singtel-screenshot.png"
+      />
+      <meta
+        property="og:image:secure_url"
+        content="https://dominicarrojado.com/axa-singtel-edm/images/axa-singtel-screenshot.png"
+      />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1800" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:description"
+        content="Email template for AXA in partnership with Singtel"
+      />
+      <meta
+        name="twitter:title"
+        content="AXA in partnership with Singtel - Dominic Arrojado"
+      />
+      <meta
+        name="twitter:image"
+        content="https://dominicarrojado.com/axa-singtel-edm/images/axa-singtel-screenshot.png"
+      />
+    </mj-raw>
+  </mj-head>
+  <mj-body width="800px" background-color="#d7e1e9">
+    <mj-wrapper css-class="wrapper" padding="40px 0">
+      <!-- START of View In Browser -->
+      <mj-section>
+        <mj-group>
+          <mj-column
+            width="100%"
+            background-color="#343c3f"
+            padding="15px 20px"
+          >
+            <mj-button
+              href="#"
+              css-class="btn-text-hover"
+              align="center"
+              background-color="transparent"
+              inner-padding="0"
+              color="#ffffff"
+              font-size="13px"
+            >
+              Click here to view this email in your browser
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of View In Browser -->
+
+      <!-- START of Brand -->
+      <mj-section background-color="#ffffff" padding="15px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-table color="#999999" font-size="17px">
+              <tr>
+                <td class="td-axa">
+                  <a
+                    href="https://www.axa.com.sg/"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    class="btn-text"
+                  >
+                    <img
+                      src="images/logo-axa.png"
+                      alt="AXA"
+                      class="inline-img axa-img"
+                    />
+                  </a>
+                </td>
+                <td class="td-partner">In partnership with:</td>
+                <td class="td-singtel">
+                  <a
+                    href="https://www.singtel.com/"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    class="btn-text"
+                  >
+                    <img
+                      src="images/logo-singtel.png"
+                      alt="Singtel"
+                      class="inline-img singtel-img"
+                    />
+                  </a>
+                </td>
+              </tr>
+            </mj-table>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Brand -->
+
+      <!-- START of Hero Image 1 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-travel-insurance.png"
+              alt="AXA 50% OFF* Single Trip Travel Insurance, in the background is a family on vacation"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 1 -->
+
+      <!-- START of Content 1 -->
+      <mj-section background-color="#133483" padding="50px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              color="#ffffff"
+              font-family="Georgia, Arial"
+              font-size="37px"
+              font-weight="bold"
+            >
+              Pay Less, Worry Less
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#ffffff"
+              font-size="16px"
+            >
+              This Great Singapore Sale, AXA SmartTraveller Single Trip Travel
+              Insurance
+            </mj-text>
+            <mj-text align="center" color="#ffffff" font-size="16px">
+              lets you explore the world with a greater peace of mind
+            </mj-text>
+            <mj-text align="center" color="#ffffff" font-size="16px">
+              at 50% off until 30 June 2017.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+              rel="noopener noreferrer nofollow"
+              css-class="btn-hover-white"
+              align="center"
+              padding-top="20px"
+              border="2px solid #ffffff"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#ffffff"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 1 -->
+
+      <!-- START of Content 2 -->
+      <mj-section background-color="#f5f5f5" padding="40px 20px 60px">
+        <mj-column width="35%" padding-top="40px">
+          <mj-image
+            align="center"
+            src="images/icon-globe.png"
+            alt="globe"
+            width="243px"
+          />
+        </mj-column>
+        <mj-column width="65%">
+          <mj-text
+            css-class="col-right-text"
+            padding="20px 30px 0"
+            color="#2e2e2e"
+            font-family="Georgia, Arial"
+            font-size="32px"
+            font-weight="bold"
+            line-height="1.2"
+          >
+            Get up to 40%* Off Annual Travel Insurance. Singtel Users Get
+            Additional 8%^ Off!
+          </mj-text>
+          <mj-text
+            css-class="col-right-text"
+            padding="20px 30px 0"
+            color="#2e2e2e"
+            font-size="16px"
+          >
+            Live out of your suitcase with AXA SmartTraveller Annual Travel
+            Insurance. Singtel users enjoy an exclusive additional 8% off with
+            our promo code.
+          </mj-text>
+          <mj-image
+            css-class="col-right-text"
+            align="left"
+            padding="20px 30px 0"
+            src="images/code.png"
+            alt="Enter AXAextra8 upon checkout"
+            width="252px"
+          />
+          <mj-text
+            css-class="col-right-text"
+            padding="10px 30px 0"
+            color="#2e2e2e"
+            font-size="16px"
+          >
+            Promotion lasts until 20 June 2017.
+          </mj-text>
+          <mj-button
+            href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+            rel="noopener noreferrer nofollow"
+            css-class="col-right-text btn-hover-blue"
+            align="left"
+            padding="20px 30px 0"
+            border="2px solid #133483"
+            border-radius="0"
+            background-color="transparent"
+            inner-padding="9px 50px"
+            color="#133483"
+            font-size="16px"
+            font-weight="bold"
+            text-transform="uppercase"
+          >
+            Buy Now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- END of Content 2 -->
+
+      <!-- START of Hero Image 2 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-smart-home.png"
+              alt="AXA 40% OFF* SmartHome Insurance, in the background is a family in the kitchen and kids playing"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 2 -->
+
+      <!-- START of Content 3 -->
+      <mj-section background-color="#f5f5f5" padding="50px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              color="#2e2e2e"
+              font-family="Georgia, Arial"
+              font-size="37px"
+              font-weight="bold"
+              line-height="1.2"
+            >
+              AXA SmartHome Insurance
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#2e2e2e"
+              font-size="16px"
+            >
+              No matter where you go, there's no place like home.
+            </mj-text>
+            <mj-text
+              align="center"
+              padding-top="20px"
+              color="#2e2e2e"
+              font-size="16px"
+            >
+              Promotion lasts until 30 June 2017.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/home-insurance"
+              rel="noopener noreferrer nofollow"
+              css-class="btn-hover-blue"
+              align="center"
+              padding-top="20px"
+              border="2px solid #133483"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#133483"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 3 -->
+
+      <!-- START of Terms & Conditions -->
+      <mj-section background-color="#ffffff" padding="40px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text color="#777777" font-size="13px" font-weight="bold">
+              SmartTraveller Promotional Terms &amp; Conditions
+            </mj-text>
+            <mj-table padding-top="20px" color="#777777" font-size="12px">
+              <tr>
+                <td class="td-num">1.</td>
+                <td class="td-desc">
+                  SmartTraveller is underwritten by AXA Insurance Pte Ltd
+                  ("AXA") (Company Reg No. 199903512M).
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">2.</td>
+                <td class="td-desc">
+                  Enjoy a promotional discount of up to *50% discount (on the
+                  Core Benefits premium) until 30 June 2017 when you buy any new
+                  Single Trip Plans. The premium for each add-ons remains at $1
+                  per policy.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">3.</td>
+                <td class="td-desc">
+                  Enjoy up to *40% discount (on the Core Benefits premium) and
+                  an additional ^8% off with the usage of AXA promo code valid
+                  for a limited time period until 20 June 2017 when you buy any
+                  Annual Multi Trip Plans. Promo code is valid for use by
+                  Singtel customers only and discount, vouchers and privileges
+                  are not exchangeable for cash, kind or other goods and
+                  services. *This is calculated based on 15% campaign discount
+                  after a 30% Family discount (if applicable). The premium for
+                  each add-ons remains at $1 per policy.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">4.</td>
+                <td class="td-desc">
+                  Applicable to Singaporeans, Singapore PRs and holders of valid
+                  Singapore employment passes, long term visit and student
+                  passes.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">5.</td>
+                <td class="td-desc">
+                  This promotion is not valid with any on-going travel
+                  discounts, schemes or privileges.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">6.</td>
+                <td class="td-desc">
+                  This promotion is applicable for online purchase only via AXA
+                  website at
+                  <a
+                    class="btn-text-underline"
+                    href="https://www.axa.com.sg/"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    >www.axa.com.sg</a
+                  >
+                  or AXA iConnect (For AXA Intermediary), and exclusively to
+                  participating partners.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">7.</td>
+                <td class="td-desc">
+                  All decisions made by AXA Insurance Pte Ltd in connection with
+                  this promotion (including the interpretation of terms and
+                  conditions of this promotion) shall be final and binding on
+                  all parties participating in the promotion.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">8.</td>
+                <td class="td-desc">
+                  AXA reserves the right to change the terms and conditions of
+                  this promotion without any prior notice.
+                </td>
+              </tr>
+            </mj-table>
+            <mj-text
+              padding-top="30px"
+              color="#777777"
+              font-size="13px"
+              font-weight="bold"
+            >
+              SmartHome Promotional Terms &amp; Conditions
+            </mj-text>
+            <mj-table padding-top="20px" color="#777777" font-size="12px">
+              <tr>
+                <td class="td-num">1.</td>
+                <td class="td-desc">
+                  SmartHome is underwritten by AXA Insurance Pte Ltd ("AXA")
+                  (Company Reg No. 199903512M).
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">2.</td>
+                <td class="td-desc">
+                  Enjoy 40% discount until 30 June 2017 when you buy any new
+                  SmartHome policies.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">3.</td>
+                <td class="td-desc">
+                  This promotion is not valid with any on-going discounts,
+                  schemes or privileges.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">4.</td>
+                <td class="td-desc">
+                  The property to be insured under the home insurance must meet
+                  the following criteria:
+                  <br />
+                  - The property is situated in Singapore;
+                  <br />
+                  - The property is for residential use only;
+                  <br />
+                  - The property is not left unattended for more than 60
+                  consecutive days.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">5.</td>
+                <td class="td-desc">
+                  This promotion is applicable for online purchase only, via AXA
+                  website at
+                  <a
+                    class="btn-text-underline"
+                    href="https://www.axa.com.sg/"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    >www.axa.com.sg</a
+                  >
+                  or AXA iConnect (For AXA Intermediary), and exclusively to
+                  participating partners.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">6.</td>
+                <td class="td-desc">
+                  All decisions made by AXA Insurance Pte Ltd in connection with
+                  this promotion (including the interpretation of terms and
+                  conditions of this promotion) shall be final and binding on
+                  all parties participating in the promotion.
+                </td>
+              </tr>
+              <tr>
+                <td class="td-num">7.</td>
+                <td class="td-desc">
+                  AXA reserves the right to change the terms and conditions of
+                  this promotion without any prior notice.
+                </td>
+              </tr>
+            </mj-table>
+            <mj-text padding-top="20px" color="#777777" font-size="12px">
+              The insurance policy featured in this marketing material is
+              protected under the Policy Owners’ Protection Scheme which is
+              administrated by the Singapore Deposit Insurance Corporation
+              (SDIC). Coverage for your policy is automatic and no further
+              action is required from you should you buy the policy. For more
+              information on the type of benefits that are covered under the
+              Policy owners; Protection Scheme as well as the limits of
+              coverage, where applicable, please visit the AXA website at
+              <a
+                class="btn-text-underline"
+                href="https://www.axa.com.sg/"
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                >www.axa.com.sg</a
+              >
+              or visit the GIA or SDIC website
+              <a
+                class="btn-text-underline"
+                href="https://gia.org.sg/"
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                >www.gia.org.sg</a
+              >
+              or
+              <a
+                class="btn-text-underline"
+                href="https://www.sdic.org.sg/"
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                >www.sdic.org.sg</a
+              >
+              of a copy of the SDIC Guide on PPF Scheme (General Insurance).
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Terms & Conditions -->
+
+      <!-- START of Footer -->
+      <mj-section background-color="#133483" padding="0 20px 18px">
+        <mj-column width="16%" vertical-align="middle" padding-top="20px">
+          <mj-button
+            href="https://www.axa.com.sg/"
+            rel="noopener noreferrer nofollow"
+            css-class="btn-text-hover"
+            align="center"
+            background-color="transparent"
+            inner-padding="0"
+            color="#ffffff"
+            font-size="12px"
+            font-weight="bold"
+            text-transform="uppercase"
+          >
+            www.axa.com.sg
+          </mj-button>
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle" padding-top="20px">
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="11px"
+            text-transform="uppercase"
+          >
+            Privacy policy © 2017 AXA All rights reserved |
+            <a href="#" class="btn-text btn-text-hover">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="24%" vertical-align="middle" padding-top="20px">
+          <mj-text align="center">
+            <a
+              href="https://www.facebook.com/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-facebook-like.png"
+                alt="Facebook like"
+                class="inline-img social-facebook-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a
+              href="https://www.youtube.com/user/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-youtube.png"
+                alt="YouTube"
+                class="inline-img social-youtube-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a
+              href="https://www.linkedin.com/company/axa/"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-linkedin.png"
+                alt="LinkedIn"
+                class="inline-img social-linkedin-img"
+              />
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- END of Footer -->
+    </mj-wrapper>
+
+    <mj-raw>
+      <!-- START of Google Tag Manager (noscript) -->
+      <noscript
+        ><iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-TSMLTPT"
+          height="0"
+          width="0"
+          style="display: none; visibility: hidden"
+        ></iframe
+      ></noscript>
+      <!-- END of Google Tag Manager (noscript) -->
+    </mj-raw>
+  </mj-body>
+</mjml>
