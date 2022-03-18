@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title> AXA in partnership with Singtel - Dominic Arrojado </mj-title>
+    <mj-title> AXA in partnership with Singtel | Dominic Arrojado </mj-title>
 
     <!-- START of Global Attributes -->
     <mj-breakpoint width="800px" />
@@ -172,7 +172,7 @@
       <meta property="og:type" content="website" />
       <meta
         property="og:title"
-        content="AXA in partnership with Singtel - Dominic Arrojado"
+        content="AXA in partnership with Singtel | Dominic Arrojado"
       />
       <meta
         property="og:description"
@@ -182,10 +182,7 @@
         property="og:url"
         content="https://dominicarrojado.com/axa-singtel-edm/"
       />
-      <meta
-        property="og:site_name"
-        content="AXA in partnership with Singtel - Dominic Arrojado"
-      />
+      <meta property="og:site_name" content="Dominic Arrojado" />
       <meta
         property="og:image"
         content="https://dominicarrojado.com/axa-singtel-edm/images/axa-singtel-screenshot.png"
@@ -203,7 +200,7 @@
       />
       <meta
         name="twitter:title"
-        content="AXA in partnership with Singtel - Dominic Arrojado"
+        content="AXA in partnership with Singtel | Dominic Arrojado"
       />
       <meta
         name="twitter:image"
